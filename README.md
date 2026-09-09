@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://www.leetcode.com/knska" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="knska" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegramm.svg" alt="knska" height="30" width="40" />
   </a>
   <!-- Добавьте свои соцсети, раскомментировав и заменив ссылки -->
   <!--
