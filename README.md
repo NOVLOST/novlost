@@ -16,19 +16,14 @@
 ### 📫 Связаться со мной
 
 <p align="left">
-  <a href="https://www.leetcode.com/knska" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegramm.svg" alt="knska" height="30" width="40" />
-  </a>
-  <!-- Добавьте свои соцсети, раскомментировав и заменив ссылки -->
-  <!--
+  
+ 
   <a href="https://t.me/ваш_ник" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="30" width="40" />
   </a>
   <a href="https://vk.com/ваш_ник" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="vk" height="30" width="40" />
-  </a>
-  -->
-</p>
+  </p>
 
 ---
 
