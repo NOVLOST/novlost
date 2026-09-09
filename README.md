@@ -22,7 +22,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="30" width="40" />
   </a>
   <a href="https://vk.com/stupakns" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="vk" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@1.6.7/icons/vk.svg" alt="vk" height="30" width="40" />
   </p>
 
 ---
