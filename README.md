@@ -17,15 +17,10 @@
 
 <p align="left">
   
- 
-<p>
-  <a href="https://t.me/stupakns" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg" alt="telegram" height="30" width="40" />
-  </a>
-  <a href="https://vk.com/stupakns" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vk.svg" alt="vk" height="30" width="40" style="fill:#0077FF;" />
-  </a>
-</p>
+## Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stupakns)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/stupakns)
 
 ---
 
